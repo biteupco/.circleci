@@ -11,7 +11,7 @@ jobs:
             which jq
             which curl
             which docker
-            which ssl
+            which ssh
             which git
 
 workflows:
